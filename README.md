@@ -7,5 +7,5 @@
 </p>
 
   　<p align="center">
-  <a href="https://PalletTown.atabook.org">Atabook</a>
+  <a href="https://thomas.atabook.org">Atabook</a>
 </p>
