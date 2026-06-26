@@ -1,5 +1,5 @@
   <p align="center">   　　         　　
-　  　　　　  　　   　           ![Github Views](https://views.igorkowalczyk.dev/api/badge/sormas?label=♥&style=classic&format=short&color=FFFFE0)
+　  　　　　  　　   　           ![Github Views](https://views.igorkowalczyk.dev/api/badge/sormas?label=people&style=classic&format=short&color=FFFFE0)
 </p>
     <p align="center">                      
 　<p align="center">
